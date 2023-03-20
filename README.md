@@ -1,2 +1,2 @@
 # ishwarvh.github.io
-files associated with my genetal website
+files associated with my general website
